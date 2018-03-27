@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import "node_modules/font-awesome/scss/font-awesome.scss";
+import "font-awesome/scss/font-awesome.scss";
 
 export default {
   props: {
@@ -27,7 +27,7 @@ export default {
     spin: Boolean,
     pulse: Boolean,
     fixed: Boolean,
-    ariaHidden: Boolean = true
+    ariaHidden: { default: true, type: Boolean }
   }
 }
 </script>
