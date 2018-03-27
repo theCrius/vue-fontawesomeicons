@@ -1,0 +1,23 @@
+{
+  "name": "vue-fontawesomeicons",
+  "version": "0.0.1",
+  "description": "Vue Component for fontawesome using scss styles",
+  "main": "FontawesomeIcons.vue",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecrius/vue-fontawesomeicons.git"
+  },
+  "keywords": [
+    "VueJs",
+    "fontawesome",
+    "ui",
+    "component"
+  ],
+  "author": "claudio.vallesi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecrius/vue-fontawesomeicons/issues"
+  },
+  "homepage": "https://github.com/thecrius/vue-fontawesomeicons#readme"
+}
