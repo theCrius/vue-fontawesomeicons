@@ -36,6 +36,12 @@ export default {
   <div class="whatever">
     <p>All attributes are optional and non mutually exclusive, apart from the 'icon' of course:</p>
     <fontawesome-icon icon="home" />
+    <fontawesome-icon icon="home" spin />
+    <fontawesome-icon icon="home" flip="vertical" />
+    <fontawesome-icon icon="home" rotate="180" />
+    <fontawesome-icon icon="spinner" pulse />
+    <fontawesome-icon icon="home" fw pull="left" border />
+    <fontawesome-icon icon="home" ariaHidden="false" />
   </div>
 </template>
 ```
