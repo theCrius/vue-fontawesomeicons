@@ -21,7 +21,7 @@ In your component:
 
 ```vue
 <script>
-import FontawesomeIcon from 'FontawesomeIcons';
+import FontawesomeIcon from 'vue-fontawesomeicons';
 
 export default {
   name: 'myComponentName',
